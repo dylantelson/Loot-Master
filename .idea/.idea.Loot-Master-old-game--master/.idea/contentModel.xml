@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Art" t="Include">
+          <e p="Roboto_Mono" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Mobile Game GUI Vector Pack" t="Include">
+          <e p="DEMO_Scripts" t="Include">
+            <e p="DEMO_CreateWindowShareLink.cs" t="Include" />
+            <e p="DEMO_DestroyWindow.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Arrow.cs" t="Include" />
+          <e p="BattleEvent.cs" t="Include" />
+          <e p="BattleManager.cs" t="Include" />
+          <e p="Doors.cs" t="Include" />
+          <e p="DungeonManager.cs" t="Include" />
+          <e p="EnemyProjectile.cs" t="Include" />
+          <e p="Event.cs" t="Include" />
+          <e p="EventManager.cs" t="Include" />
+          <e p="FollowMouse.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="ResolutionScript.cs" t="Include" />
+          <e p="SpinCircle.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Loot-Master-old-game--master.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Loot-Master-old-game--master.226634299.00" t="ExcludeRecursive" />
+  </component>
+</project>
